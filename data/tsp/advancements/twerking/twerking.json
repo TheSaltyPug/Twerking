@@ -1,0 +1,17 @@
+{
+     "criteria": {
+          "trigger": {
+               "trigger": "minecraft:tick"
+          }
+     },
+     "display": {
+          "announce_to_chat": false,
+          "description": "Sneak to grow plants around you!",
+          "icon": {
+               "item": "minecraft:bone_meal"
+          },
+          "show_toast": false,
+          "title": "Twerking"
+     },
+     "parent": "global:tsp"
+}
